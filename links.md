@@ -1,4 +1,17 @@
+# High Level Design --
+
+https://www.youtube.com/watch?v=XxB1BCuvu9A&t=327s
+https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view
+https://github.com/donnemartin/system-design-primer
+
+https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
+https://leetcode.com/discuss/study-guide/901324/My-System-Design-Interview-Checklist-A-Gateway-to-FAANGs
+https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
+https://leetcode.com/discuss/study-guide/1757720/Interview-preparation-Guide-or-DSA-or-LLD-or-System-Design-or-Behavioral-or-FAANG
+
 # Low level design --
+
+https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
 
 https://refactoring.guru/
 https://sourcemaking.com/
@@ -7,16 +20,6 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 https://leetcode.com/discuss/study-guide/1852219/Object-Oriented-Programming-Made-Easy
 https://leetcode.com/discuss/study-guide/1389824/One-Stop-OOP-Guide-or-Useful-and-Short-topics-for-interviews-or-Object-Oriented-Programming-(C%2B%2B)
 https://leetcode.com/discuss/study-guide/1402472/100-%2B-LLD-Round-problems-or-curated-Problems-and-Solution
-
-# High Level Design --
-
-https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view
-https://github.com/donnemartin/system-design-primer
-
-https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
-https://leetcode.com/discuss/study-guide/901324/My-System-Design-Interview-Checklist-A-Gateway-to-FAANGs
-https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
-https://leetcode.com/discuss/study-guide/1757720/Interview-preparation-Guide-or-DSA-or-LLD-or-System-Design-or-Behavioral-or-FAANG
 
 # CN
 

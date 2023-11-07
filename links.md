@@ -10,6 +10,7 @@ https://leetcode.com/discuss/study-guide/1402472/100-%2B-LLD-Round-problems-or-c
 
 # High Level Design --
 
+https://www.youtube.com/@codeKarle
 https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view
 https://github.com/donnemartin/system-design-primer
 

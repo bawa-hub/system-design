@@ -1,4 +1,4 @@
-package _3_design_patterns._2_structural;
+package _3_design_patterns._2_structural._1_adapter;
 
 
 // Scenario: Legacy Logger to a Modern Logging Framework

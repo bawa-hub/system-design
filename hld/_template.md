@@ -96,3 +96,4 @@
     https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation
     https://systemdesign.one/back-of-the-envelope/
     https://devcookies.medium.com/capacity-estimation-calculation-cheat-sheet-baf2502ab11f
+    https://medium.com/geekculture/how-to-calculate-server-max-requests-per-second-38a39bb96a85

@@ -1,1 +1,0 @@
-https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/

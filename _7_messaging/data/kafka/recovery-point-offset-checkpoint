@@ -1,5 +1,5 @@
 0
-53
+55
 __consumer_offsets 13 0
 __consumer_offsets 46 0
 __consumer_offsets 9 0
@@ -11,6 +11,7 @@ __consumer_offsets 26 0
 __consumer_offsets 5 0
 __consumer_offsets 38 0
 __consumer_offsets 1 0
+replicated-demo 0 0
 __consumer_offsets 34 0
 __consumer_offsets 16 0
 __consumer_offsets 45 0
@@ -26,6 +27,7 @@ __consumer_offsets 8 0
 __consumer_offsets 37 0
 simple-demo 2 0
 __consumer_offsets 4 0
+replicated-demo 1 0
 __consumer_offsets 33 0
 __consumer_offsets 15 0
 __consumer_offsets 48 0

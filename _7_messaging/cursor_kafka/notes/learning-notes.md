@@ -6,8 +6,9 @@
 - [x] Environment Setup
 - [x] Core Concepts Theory
 - [x] Basic Producer/Consumer Hands-on
-- [ ] Topics and Partitions Deep Dive
-- [ ] Consumer Groups Theory and Practice
+- [x] Topics and Partitions Deep Dive
+- [x] Consumer Groups Theory and Practice
+- [ ] Replication and Fault Tolerance
 - [ ] Phase 1 Assessment
 
 ### Phase 2: Intermediate (Weeks 3-4)
@@ -158,6 +159,11 @@ App A → Kafka Topic → App B, App C, App D
 - **What we did**: Created topic with 3 partitions, sent messages with different keys
 - **What we learned**: How partitioning works, key-based distribution
 - **Key observations**: Same key goes to same partition, different keys distributed
+
+### Experiment 3: Consumer Groups
+- **What we did**: Ran multiple consumers in the same consumer group
+- **What we learned**: How consumer groups distribute work across partitions
+- **Key observations**: One consumer per partition, load balancing, rebalancing
 
 ---
 

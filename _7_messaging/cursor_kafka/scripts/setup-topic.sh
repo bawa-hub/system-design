@@ -4,13 +4,13 @@ echo "🔧 Setting up Kafka topic with multiple partitions..."
 
 # Create topic with 3 partitions
 docker exec kafka kafka-topics --create \
-  --topic user-events \
+  --topic user-events-multi \
   --bootstrap-server localhost:9092 \
   --partitions 3 \
   --replication-factor 1 \
   --if-not-exists
 
-echo "✅ Topic 'user-events' created with 3 partitions"
+echo "✅ Topic 'user-events-multi' created with 3 partitions"
 
 # List topics to verify
 echo "📋 Available topics:"

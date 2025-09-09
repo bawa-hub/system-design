@@ -1,5 +1,5 @@
 0
-55
+54
 __consumer_offsets 13 0
 __consumer_offsets 46 0
 __consumer_offsets 9 0
@@ -10,8 +10,8 @@ __consumer_offsets 30 12
 __consumer_offsets 26 0
 __consumer_offsets 5 0
 __consumer_offsets 38 0
+user-events-multi 2 0
 __consumer_offsets 1 0
-replicated-demo 0 0
 __consumer_offsets 34 0
 __consumer_offsets 16 0
 __consumer_offsets 45 0
@@ -25,9 +25,7 @@ __consumer_offsets 29 0
 __consumer_offsets 25 0
 __consumer_offsets 8 0
 __consumer_offsets 37 0
-simple-demo 2 0
 __consumer_offsets 4 0
-replicated-demo 1 0
 __consumer_offsets 33 0
 __consumer_offsets 15 0
 __consumer_offsets 48 0
@@ -36,8 +34,9 @@ __consumer_offsets 44 0
 __consumer_offsets 23 0
 __consumer_offsets 19 0
 __consumer_offsets 32 0
+user-events 0 0
 __consumer_offsets 28 0
-simple-demo 1 0
+user-events-multi 0 0
 __consumer_offsets 7 0
 __consumer_offsets 40 0
 __consumer_offsets 3 0
@@ -51,7 +50,7 @@ __consumer_offsets 18 0
 __consumer_offsets 31 0
 __consumer_offsets 27 0
 __consumer_offsets 39 0
-simple-demo 0 0
+user-events-multi 1 0
 __consumer_offsets 6 0
 __consumer_offsets 35 0
 __consumer_offsets 2 0

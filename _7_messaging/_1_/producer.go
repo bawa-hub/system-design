@@ -20,7 +20,8 @@ func main() {
 	ctx := context.Background()
 
 	for i := 1; i <= 5; i++ {
-		key := fmt.Sprintf("user-%d", i%3)
+		// key := fmt.Sprintf("user-%d", i%3)
+		key := "user-10"
 		value := fmt.Sprintf("Order #%d from %s", i, key)
 
 		err := writer.WriteMessages(ctx, kafka.Message{

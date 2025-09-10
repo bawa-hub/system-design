@@ -1,5 +1,5 @@
 0
-66
+67
 __consumer_offsets 43 0
 advanced-demo 0 358
 performance-test 1 1806
@@ -54,6 +54,7 @@ __consumer_offsets 2 0
 resource-test 0 1673
 __consumer_offsets 44 9
 __consumer_offsets 16 0
+dead-letter-queue 0 3
 __consumer_offsets 47 0
 __consumer_offsets 7 0
 __consumer_offsets 22 0

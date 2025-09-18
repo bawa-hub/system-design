@@ -1,0 +1,2 @@
+-- a view is a named query stored in the database catalog.
+-- Once you execute the CREATE VIEW statement, MySQL creates the view and stores it in the database.

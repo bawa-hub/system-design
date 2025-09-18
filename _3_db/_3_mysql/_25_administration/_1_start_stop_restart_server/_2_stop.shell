@@ -1,0 +1,7 @@
+# windows
+mysqladmin -u root -p shutdown
+
+# linux
+/etc/init.d/mysqld stop
+#or 
+systemctl stop mysql

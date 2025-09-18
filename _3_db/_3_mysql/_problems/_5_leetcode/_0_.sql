@@ -1,0 +1,1 @@
+-- https://github.com/mrinal1704/SQL-Leetcode-Challenge/tree/master/Easy

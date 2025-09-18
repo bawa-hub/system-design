@@ -1,0 +1,1 @@
+-- https://www.mysqltutorial.org/understand-mysql-table-types-innodb-myisam.aspx

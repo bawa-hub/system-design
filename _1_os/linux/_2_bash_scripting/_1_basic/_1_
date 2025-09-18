@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "hello world"
+
+# shell in use
+which $SHELL  
+
+# run script
+# bash <filename> or ./filename if it is executable
+
+# make file executable
+# chmod 755 <filename>
+
+# path of executable files
+echo $PATH
+
+# if you want the system to search executable file then put inside path variable 

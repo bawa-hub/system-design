@@ -1,0 +1,1 @@
+-- https://www.mysqltutorial.org/mysql-index/mysql-index-cardinality/

@@ -1,0 +1,16 @@
+-- filtering clauses
+
+/**
+WHERE 
+SELECT DISTINCT
+AND
+OR
+IN
+NOT IN
+BETWEEN
+LIKE
+NOT LIKE
+LIMIT
+IS NULL
+IS NOT NULL
+*/

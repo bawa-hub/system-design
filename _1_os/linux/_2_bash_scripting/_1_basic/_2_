@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "<html>
+      <head>
+         <title>Page Title</title>
+      </head>
+<body>
+page body
+</body>
+</html>"

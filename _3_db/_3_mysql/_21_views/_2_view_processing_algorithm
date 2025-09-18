@@ -1,0 +1,8 @@
+-- CREATE VIEW and ALTER VIEW statements have an optional clause: ALGORITHM
+
+-- The algorithm determines how MySQL process a view and can take one of three values MERGE, TEMPTABLE, and UNDEFINE.
+
+CREATE [OR REPLACE][ALGORITHM = {MERGE | TEMPTABLE | UNDEFINED}] VIEW 
+   view_name[(column_list)]
+AS 
+   select-statement;

@@ -1,0 +1,4 @@
+# linux
+systemctl restart mysql
+# or
+/etc/init.d/mysqld restart
